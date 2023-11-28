@@ -13,6 +13,11 @@ WAR（投手）＝（SPRAR＋RPRAR）÷RPW
 # CPBL 2023版本
 分子係數:該狀態下RE24平均
 分母係數:該狀態下的出局比例
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 | 狀態 | RE24 | 出局比例 |
 | ------------- | ------------- |
 | uBB | Content Cell |
