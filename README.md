@@ -51,7 +51,7 @@ WAR（投手）＝（SPRAR＋RPRAR）÷RPW
 3.球場因素修正值（从tRA中减去）--> 改為一般的Park Factor
 並計算各球員的平均PF
 
-4. RAR＝（1.356×聯盟平均tRA－PF補正後tRA）÷9×（獲得出局數÷3）
+4.RAR＝（1.356×聯盟平均tRA－PF補正後tRA）÷9×（獲得出局數÷3）
 取SPRAR(1.39)和RPRAR(1.34) 平均數1.365
 
 5.計算Run per Win
