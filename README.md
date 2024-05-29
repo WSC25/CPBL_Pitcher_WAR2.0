@@ -63,11 +63,15 @@ WAR（投手）＝（SPRAR＋RPRAR）÷RPW
 
 ## 5.計算Run per Win
 是指增加一場勝利所需的得分數量。通常來說，總得分增加10分（或總失分減少10分）會使球隊的勝場增加一場。RPW通常等於10。
+
 原日本公式: RPW = 10 × SQRT（兩隊每局平均得分）
+
 日本公式下 CPBL_2023_RPW  = 6.8593172473
 
 FG公式: RPW = 9*(MLB Runs Scored / MLB Innings Pitched)*1.5 + 3
+
 FG公式下 CPBL_2023_RPW  = 9.35166
+
 場數校正:9.35166*120/162=6.9272
 
 ## 6.計算WAR
